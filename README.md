@@ -1,2 +1,2 @@
 # weattherApp
-haha
+Learning React native by building weatherApp
